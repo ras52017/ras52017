@@ -1,8 +1,7 @@
 # Hi there, I'm Erasmus 👋
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
+![Portfolio](https://img.shields.io/static/v1?label=PORTFOLIO&message=UP&color=<success>)
+
 ## I'm a Husband, Father, Analyst, and Project Management Teacher!!
 - 🌱 I’m currently developing my Bussiness Intelligence slillsets.
 - 👯 I’m looking to collaborate on new ideas with other Analyst.
