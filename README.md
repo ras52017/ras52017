@@ -4,7 +4,7 @@
 **ras52017/ras52017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I'm a Husband, Father, Analyst, and Project ManagementTeacher!!
-- 🌱 I’m currently developing my Bussiness Intelligence slillsets.
+- 🌱 I’m currently developing my Bussiness Intelligence skillsets.
 - 👯 I’m looking to collaborate on new ideas with other Analyst.
 - 🥅 2023 Goals: Learn more about web3
 - 💬 Ask me about my backgroung
